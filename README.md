@@ -1,3 +1,6 @@
-# More Java exercises
+#Java Practice Exercises
 
-More Java exercises based on Alex Lee's tutorials.
+These are a few Java exercises I have practiced, primarily based on Alex Lee's tutorials.
+
+You can access them here: 
+https://www.youtube.com/@alexlorenlee
